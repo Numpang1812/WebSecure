@@ -80,3 +80,8 @@ cover/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Agents
+.agent
+.agents
+.claude
